@@ -1,0 +1,8 @@
+# RobotPathPlanning Scenario 1
+ID 1
+NAME Open Environment
+DESC Obstacle-free 20x20 workspace demonstrating baseline A* heuristic efficiency.
+GRID_SIZE 20
+START 2 10
+GOAL 17 10
+MOVEMENT 4

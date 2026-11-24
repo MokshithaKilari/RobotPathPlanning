@@ -1,0 +1,24 @@
+# RobotPathPlanning Scenario 4
+ID 4
+NAME Dynamic Obstacle Crossing
+DESC Single patrolling obstacle crossing the primary corridor, triggering live replanning.
+GRID_SIZE 20
+START 2 10
+GOAL 17 10
+MOVEMENT 4
+STATIC 10 0
+STATIC 10 1
+STATIC 10 2
+STATIC 10 3
+STATIC 10 4
+STATIC 10 5
+STATIC 10 6
+STATIC 10 7
+STATIC 10 13
+STATIC 10 14
+STATIC 10 15
+STATIC 10 16
+STATIC 10 17
+STATIC 10 18
+STATIC 10 19
+DYNAMIC 10 8 VERTICAL 1.8

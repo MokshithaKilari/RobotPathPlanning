@@ -1,0 +1,24 @@
+# RobotPathPlanning Scenario 6
+ID 6
+NAME Blocked Optimal Route
+DESC Direct central gate starts open then closes behind a patrolling block, forcing detour.
+GRID_SIZE 20
+START 2 10
+GOAL 17 10
+MOVEMENT 4
+STATIC 10 3
+STATIC 10 4
+STATIC 10 5
+STATIC 10 6
+STATIC 10 7
+STATIC 10 8
+STATIC 10 9
+STATIC 10 11
+STATIC 10 12
+STATIC 10 13
+STATIC 10 14
+STATIC 10 15
+STATIC 10 16
+STATIC 9 8
+STATIC 9 12
+DYNAMIC 10 10 HORIZONTAL 1.2
